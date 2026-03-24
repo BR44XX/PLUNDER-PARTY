@@ -5903,3 +5903,392 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.24-16.15.11:169][653]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/Circle_001_Auto3
 [2026.03.24-16.15.11:169][653]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_001_Auto34F44AAA6474D435F65001097F35BDD37.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Autosaves/Game/assets/Circle_001_Auto3.uasset'
 [2026.03.24-16.15.11:170][653]LogFileHelpers: Auto-saving content packages took 0.268
+[2026.03.24-16.17.02:694][252]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-16.17.02:725][252]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-16.17.02:741][253]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-16.17.06:035][541]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.03.24-16.17.06:036][541]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-16.17.20:165][ 40]LogSlate: Window 'Message' being destroyed
+[2026.03.24-16.17.20:170][ 40]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Lvl_ThirdPerson
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2026.03.24-16.17.20:201][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-16.17.20:441][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.24-16.17.20:476][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.24-16.17.20:508][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.24-16.17.20:527][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl_ThirdPerson" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/Levels/Lvl_ThirdPerson.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.24-16.17.20:579][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.24-16.17.20:593][ 40]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_ThirdPerson
+[2026.03.24-16.17.20:593][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Lvl_ThirdPersonEF4CD0ED4716B7FFD30CB2B1D249E769.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/Levels/Lvl_ThirdPerson.umap'
+[2026.03.24-16.17.20:602][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-16.17.20:612][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/DO/K6L8V5YT6A17T7MMAQ3JRT
+[2026.03.24-16.17.20:612][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/K6L8V5YT6A17T7MMAQ3JRT28518C60433977F948139BB2F0587AE4.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/DO/K6L8V5YT6A17T7MMAQ3JRT.uasset'
+[2026.03.24-16.17.20:622][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Lvl_ThirdPerson/2/O9/S5G9QPWONA4DT3AU6DAU60
+[2026.03.24-16.17.20:622][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/S5G9QPWONA4DT3AU6DAU607B1702894E80414DD356A6B878939AB8.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalObjects__/Levels/Lvl_ThirdPerson/2/O9/S5G9QPWONA4DT3AU6DAU60.uasset'
+[2026.03.24-16.17.20:631][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Lvl_ThirdPerson/4/QB/DXVO2KIC9HMU8TYSZVAJLG
+[2026.03.24-16.17.20:631][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/DXVO2KIC9HMU8TYSZVAJLGB0C508EF41DCD307984A54BE28F9F39A.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalObjects__/Levels/Lvl_ThirdPerson/4/QB/DXVO2KIC9HMU8TYSZVAJLG.uasset'
+[2026.03.24-16.17.20:641][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/3G/JQXF1NAY7E8IJ8C5F9R2WN
+[2026.03.24-16.17.20:641][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/JQXF1NAY7E8IJ8C5F9R2WN4A3750A2496BA89B9E1639BBA48BF7D2.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/3G/JQXF1NAY7E8IJ8C5F9R2WN.uasset'
+[2026.03.24-16.17.20:651][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/0/RE/W21XCDP88M921QT5OYI7XY
+[2026.03.24-16.17.20:651][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/W21XCDP88M921QT5OYI7XY89C8A34C4949818A27300483854E594F.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/0/RE/W21XCDP88M921QT5OYI7XY.uasset'
+[2026.03.24-16.17.20:660][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/5/EL/ZJR96NOH44F54W84UOCFP2
+[2026.03.24-16.17.20:660][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/ZJR96NOH44F54W84UOCFP22DFF15EB40711A57844061ABFAF43B95.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/5/EL/ZJR96NOH44F54W84UOCFP2.uasset'
+[2026.03.24-16.17.20:669][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/7K/MP5MQ0O2FGYNRUF3OFLE7B
+[2026.03.24-16.17.20:669][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/MP5MQ0O2FGYNRUF3OFLE7B747F215A4239709597AC36BE75149A5E.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/7K/MP5MQ0O2FGYNRUF3OFLE7B.uasset'
+[2026.03.24-16.17.20:678][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/2/GF/6W9O1LPQ62ZTK6NFZY38EX
+[2026.03.24-16.17.20:678][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/6W9O1LPQ62ZTK6NFZY38EXE285F6DB422C559213401886F1922D16.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/2/GF/6W9O1LPQ62ZTK6NFZY38EX.uasset'
+[2026.03.24-16.17.20:689][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/ZL/LILMDAYEYDW1Z0TYYECUHG
+[2026.03.24-16.17.20:689][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/LILMDAYEYDW1Z0TYYECUHG95C2555C4551CB77CB17C684C42AC888.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/ZL/LILMDAYEYDW1Z0TYYECUHG.uasset'
+[2026.03.24-16.17.20:699][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/00/3JZ8JMTYS53PAAGSE2HHTE
+[2026.03.24-16.17.20:699][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/3JZ8JMTYS53PAAGSE2HHTE35DD73594C821EF61AE9279BE8657FFC.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/00/3JZ8JMTYS53PAAGSE2HHTE.uasset'
+[2026.03.24-16.17.20:709][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/G9/E2S1XTSH4YF9HEKY0DT13N
+[2026.03.24-16.17.20:709][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/E2S1XTSH4YF9HEKY0DT13N48057ABA4D7EE753D1275F8C365F21F7.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/G9/E2S1XTSH4YF9HEKY0DT13N.uasset'
+[2026.03.24-16.17.20:719][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/0/AA/0GHHW6APLAWGZ59L5BVHZ7
+[2026.03.24-16.17.20:719][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/0GHHW6APLAWGZ59L5BVHZ72972BD804170AA07DC9C10A3ED351810.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/0/AA/0GHHW6APLAWGZ59L5BVHZ7.uasset'
+[2026.03.24-16.17.20:728][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/0/26/9OZMS5RTDNWN0IEEPXRX8I
+[2026.03.24-16.17.20:728][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/9OZMS5RTDNWN0IEEPXRX8I06D27A2A42D0DCFF1864389182D8F3D9.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/0/26/9OZMS5RTDNWN0IEEPXRX8I.uasset'
+[2026.03.24-16.17.20:737][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/8N/O9GA7GW4S7FC2WRL050DLP
+[2026.03.24-16.17.20:737][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/O9GA7GW4S7FC2WRL050DLP44412D304375CBC713CC6AA1713C1277.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/8N/O9GA7GW4S7FC2WRL050DLP.uasset'
+[2026.03.24-16.17.20:748][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/XJ/VSMTALNY47CKFBISJKAC2E
+[2026.03.24-16.17.20:748][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/VSMTALNY47CKFBISJKAC2EDF136DFA4025B6ACCD633590F2C2B272.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/XJ/VSMTALNY47CKFBISJKAC2E.uasset'
+[2026.03.24-16.17.20:757][ 40]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/T2/0ZKCNTPFZW470NPCXGCEI5
+[2026.03.24-16.17.20:757][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/0ZKCNTPFZW470NPCXGCEI583611FBF4954E06CAFC4078556C025AA.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/T2/0ZKCNTPFZW470NPCXGCEI5.uasset'
+[2026.03.24-16.17.20:758][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.604 ms (total: 1.42 sec)
+[2026.03.24-16.17.20:763][ 40]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.236
+[2026.03.24-16.17.20:763][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Lvl_ThirdPerson] ([1] browsable assets)...
+[2026.03.24-16.17.20:763][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Lvl_ThirdPerson]
+[2026.03.24-16.17.20:763][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Lvl_ThirdPerson" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/ThirdPerson/Lvl_ThirdPerson.umap" SILENT=true
+[2026.03.24-16.17.20:772][ 40]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.03.24-16.17.20:773][ 40]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Lvl_ThirdPerson222951FD42DB38EBFB05EC8E9A8AA999.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.03.24-16.17.20:774][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 572.520 ms (total: 2.00 sec)
+[2026.03.24-16.17.20:804][ 40]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: Display: Starting to validate 18 assets
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: Enabled validators:
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-16.17.20:804][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-16.17.20:805][ 40]AssetCheck: /Game/Levels/Lvl_ThirdPerson Validating asset
+[2026.03.24-16.17.20:805][ 40]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.24-16.17.20:845][ 40]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-16.17.29:126][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-16.17.29:134][781]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.24-16.17.29:134][781]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.24-16.17.29:135][781]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.257 ms (total: 44.001 ms)
+[2026.03.24-16.17.29:135][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-16.17.29:155][781]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.24-16.17.29:158][781]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.24-16.17.29:159][781]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 476 us (total: 17.069 ms)
+[2026.03.24-16.17.29:159][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003616s)
+[2026.03.24-16.17.29:159][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.003672s)
+[2026.03.24-16.17.29:190][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.24-16.17.29:195][781]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.24-16.17.29:196][781]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.24-16.17.29:196][781]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.24-16.17.29:196][781]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.24-16.17.29:196][781]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.24-16.17.29:197][781]LogWorldPartition: Display: WorldPartition initialize took 1.007 ms (total: 363.626 ms)
+[2026.03.24-16.17.29:197][781]LogPlayLevel: PIE: World Init took: (0.003345s)
+[2026.03.24-16.17.29:198][781]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-16.17.29:198][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-16.17.29:198][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-16.17.29:199][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-16.17.29:199][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-16.17.29:199][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-16.17.29:201][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-16.17.29:238][781]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Alpha S Game)
+[2026.03.24-16.17.29:238][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-16.17.29:238][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-16.17.29:238][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-16.17.29:239][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.03.24-16.17.29:239][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.03.24-16.17.29:241][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.03.24-16.17.29:241][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.03.24-16.17.29:241][781]LogInit: FAudioDevice initialized with ID 37.
+[2026.03.24-16.17.29:241][781]LogAudio: Display: Audio Device (ID: 37) registered with world 'Lvl_ThirdPerson'.
+[2026.03.24-16.17.29:241][781]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.24-16.17.29:245][781]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.24-16.17.29:247][781]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.24-16.17.29
+[2026.03.24-16.17.29:247][781]LogWorld: Bringing up level for play took: 0.000978
+[2026.03.24-16.17.29:250][781]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.03.24-16.17.29:256][781]PIE: Server logged in
+[2026.03.24-16.17.29:258][781]PIE: Play in editor total start time 0.125 seconds.
+[2026.03.24-16.17.29:350][782]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-16.17.50:448][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-16.17.50:448][ 14]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.24-16.17.50:448][ 14]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-16.17.50:448][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-16.17.50:448][ 14]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.24-16.17.50:451][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-16.17.50:461][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-16.17.50:487][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-16.17.50:487][ 14]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.24-16.17.50:487][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.03.24-16.17.50:490][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.03.24-16.17.50:495][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-16.17.50:498][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.24-16.17.50:542][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.03.24-16.18.59:148][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2780.598877
+[2026.03.24-16.18.59:289][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.18.59:289][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2780.730225, Update Interval: 301.871399
+[2026.03.24-16.24.43:592][693]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3125.029297
+[2026.03.24-16.24.43:741][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.24.43:741][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3125.169189, Update Interval: 322.749725
+[2026.03.24-16.31.02:792][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3504.256348
+[2026.03.24-16.31.02:947][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.31.02:947][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3504.402100, Update Interval: 327.492310
+[2026.03.24-16.34.31:820][586]LogDerivedDataCache: C:/Users/Acy1ite/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.24-16.37.26:917][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3888.362793
+[2026.03.24-16.37.27:058][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.37.27:058][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3888.494629, Update Interval: 335.565674
+[2026.03.24-16.43.50:980][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4272.398926
+[2026.03.24-16.43.51:113][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.43.51:113][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4272.522949, Update Interval: 339.740601
+[2026.03.24-16.50.17:878][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4659.328613
+[2026.03.24-16.50.18:020][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.50.18:020][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4659.461914, Update Interval: 328.416992
+[2026.03.24-16.56.32:202][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5033.635254
+[2026.03.24-16.56.33:202][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-16.56.33:203][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5034.301270, Update Interval: 333.183380
+[2026.03.24-17.02.38:889][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-17.02.38:967][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.03.24-17.02.39:002][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.24-17.02.39:032][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.24-17.02.39:041][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.899 ms (total: 2.15 sec)
+[2026.03.24-17.02.41:433][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.24-17.02.41:446][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-17.02.41:489][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_003] ([1] browsable assets)...
+[2026.03.24-17.02.41:489][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_003]
+[2026.03.24-17.02.41:489][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_003" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_003.uasset" SILENT=true
+[2026.03.24-17.02.41:507][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_003
+[2026.03.24-17.02.41:507][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_003DDAE3E9B4C57D4ECCA91B6932B6F56B8.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_003.uasset'
+[2026.03.24-17.02.41:509][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_014] ([1] browsable assets)...
+[2026.03.24-17.02.41:509][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_014]
+[2026.03.24-17.02.41:509][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_014" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_014.uasset" SILENT=true
+[2026.03.24-17.02.41:524][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_014
+[2026.03.24-17.02.41:524][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_01403F3C4B045A1607A37837F8ABB327FDA.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_014.uasset'
+[2026.03.24-17.02.41:525][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_007] ([1] browsable assets)...
+[2026.03.24-17.02.41:525][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_007]
+[2026.03.24-17.02.41:525][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_007" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_007.uasset" SILENT=true
+[2026.03.24-17.02.41:537][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_007
+[2026.03.24-17.02.41:537][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_0079174488347FBECA20166F3B77136C7F3.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_007.uasset'
+[2026.03.24-17.02.41:538][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_020] ([1] browsable assets)...
+[2026.03.24-17.02.41:539][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_020]
+[2026.03.24-17.02.41:539][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_020" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_020.uasset" SILENT=true
+[2026.03.24-17.02.41:548][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_020
+[2026.03.24-17.02.41:548][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_020F2C51FBA4EC144C16915728DDE94B678.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_020.uasset'
+[2026.03.24-17.02.41:550][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_019] ([1] browsable assets)...
+[2026.03.24-17.02.41:550][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_019]
+[2026.03.24-17.02.41:550][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_019" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_019.uasset" SILENT=true
+[2026.03.24-17.02.41:560][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_019
+[2026.03.24-17.02.41:560][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_019B7A64706430BDD09BB4214921EDED761.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_019.uasset'
+[2026.03.24-17.02.41:562][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_018] ([1] browsable assets)...
+[2026.03.24-17.02.41:562][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_018]
+[2026.03.24-17.02.41:562][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_018" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_018.uasset" SILENT=true
+[2026.03.24-17.02.41:572][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_018
+[2026.03.24-17.02.41:572][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_01835FEA8F44BD923E51C0A44ADA77FA442.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_018.uasset'
+[2026.03.24-17.02.41:575][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_017] ([1] browsable assets)...
+[2026.03.24-17.02.41:575][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_017]
+[2026.03.24-17.02.41:575][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_017" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_017.uasset" SILENT=true
+[2026.03.24-17.02.41:584][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_017
+[2026.03.24-17.02.41:584][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_017779AFF134CA4051B188EDB9D72E6852F.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_017.uasset'
+[2026.03.24-17.02.41:587][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_016] ([1] browsable assets)...
+[2026.03.24-17.02.41:587][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_016]
+[2026.03.24-17.02.41:587][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_016" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_016.uasset" SILENT=true
+[2026.03.24-17.02.41:600][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_016
+[2026.03.24-17.02.41:600][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_016FD2A948A4555C7BE8D3C0F9D0CE0F8AC.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_016.uasset'
+[2026.03.24-17.02.41:602][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_015] ([1] browsable assets)...
+[2026.03.24-17.02.41:602][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_015]
+[2026.03.24-17.02.41:602][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_015" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_015.uasset" SILENT=true
+[2026.03.24-17.02.41:615][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_015
+[2026.03.24-17.02.41:615][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_0153F8560D24344EFBA4BA646AA1D123DFF.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_015.uasset'
+[2026.03.24-17.02.41:617][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_013] ([1] browsable assets)...
+[2026.03.24-17.02.41:617][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_013]
+[2026.03.24-17.02.41:617][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_013" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_013.uasset" SILENT=true
+[2026.03.24-17.02.41:631][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_013
+[2026.03.24-17.02.41:631][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_013F3904E304EE2F3FA9FCDFCBAECD4425A.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_013.uasset'
+[2026.03.24-17.02.41:633][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_012] ([1] browsable assets)...
+[2026.03.24-17.02.41:633][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_012]
+[2026.03.24-17.02.41:633][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_012" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_012.uasset" SILENT=true
+[2026.03.24-17.02.41:645][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_012
+[2026.03.24-17.02.41:645][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_012B9C5D0EF49DFFB932CE56FB5C90E1F4A.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_012.uasset'
+[2026.03.24-17.02.41:647][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_011] ([1] browsable assets)...
+[2026.03.24-17.02.41:647][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_011]
+[2026.03.24-17.02.41:647][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_011" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_011.uasset" SILENT=true
+[2026.03.24-17.02.41:660][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_011
+[2026.03.24-17.02.41:660][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_0115B0706664F87768987C31AB3C92BC34E.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_011.uasset'
+[2026.03.24-17.02.41:662][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_010] ([1] browsable assets)...
+[2026.03.24-17.02.41:662][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_010]
+[2026.03.24-17.02.41:662][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_010" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_010.uasset" SILENT=true
+[2026.03.24-17.02.41:676][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_010
+[2026.03.24-17.02.41:676][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_01001DE70364A7CAA1E6ACB24BC068DD6FF.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_010.uasset'
+[2026.03.24-17.02.41:679][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_009] ([1] browsable assets)...
+[2026.03.24-17.02.41:679][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_009]
+[2026.03.24-17.02.41:679][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_009" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_009.uasset" SILENT=true
+[2026.03.24-17.02.41:692][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_009
+[2026.03.24-17.02.41:692][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_00989D45DF4410EB884565923AA9C385E7F.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_009.uasset'
+[2026.03.24-17.02.41:695][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_008] ([1] browsable assets)...
+[2026.03.24-17.02.41:695][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_008]
+[2026.03.24-17.02.41:695][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_008" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_008.uasset" SILENT=true
+[2026.03.24-17.02.41:709][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_008
+[2026.03.24-17.02.41:709][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_00897A7CCA4474CFF68BC2B2DB37A95EEE6.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_008.uasset'
+[2026.03.24-17.02.41:711][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_006] ([1] browsable assets)...
+[2026.03.24-17.02.41:711][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_006]
+[2026.03.24-17.02.41:711][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_006" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_006.uasset" SILENT=true
+[2026.03.24-17.02.41:720][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_006
+[2026.03.24-17.02.41:720][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_0061214FB3D43A86F66F2548E9AE0E55CDC.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_006.uasset'
+[2026.03.24-17.02.41:723][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_005] ([1] browsable assets)...
+[2026.03.24-17.02.41:723][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_005]
+[2026.03.24-17.02.41:723][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_005" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_005.uasset" SILENT=true
+[2026.03.24-17.02.41:732][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_005
+[2026.03.24-17.02.41:732][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_005B19ACB7944DB182C53A920BA7C8FD044.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_005.uasset'
+[2026.03.24-17.02.41:735][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_004] ([1] browsable assets)...
+[2026.03.24-17.02.41:735][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_004]
+[2026.03.24-17.02.41:735][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_004" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_004.uasset" SILENT=true
+[2026.03.24-17.02.41:745][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_004
+[2026.03.24-17.02.41:745][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_004BB618ACB456F63593DAC01929F136625.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_004.uasset'
+[2026.03.24-17.02.41:747][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_002] ([1] browsable assets)...
+[2026.03.24-17.02.41:747][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_002]
+[2026.03.24-17.02.41:747][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_002" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_002.uasset" SILENT=true
+[2026.03.24-17.02.41:761][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_002
+[2026.03.24-17.02.41:761][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_002F8439B68403A0D0FDAE4FF8E6E86BEB8.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_002.uasset'
+[2026.03.24-17.02.41:763][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/Circle_001] ([1] browsable assets)...
+[2026.03.24-17.02.41:763][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Circle_001]
+[2026.03.24-17.02.41:763][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Circle_001" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_001.uasset" SILENT=true
+[2026.03.24-17.02.41:775][448]LogSavePackage: Moving output files for package: /Game/assets/Circle_001
+[2026.03.24-17.02.41:775][448]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/Circle_0018E59BAC9410067283CCDD0BEB6101F5E.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle_001.uasset'
+[2026.03.24-17.02.41:787][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.652 ms (total: 2.49 sec)
+[2026.03.24-17.02.41:838][448]LogContentValidation: Display: Starting to validate 20 assets
+[2026.03.24-17.02.41:838][448]LogContentValidation: Enabled validators:
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-17.02.41:838][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_003 Validating asset
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_014 Validating asset
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_007 Validating asset
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_020 Validating asset
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_019 Validating asset
+[2026.03.24-17.02.41:838][448]AssetCheck: /Game/assets/Circle_018 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_017 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_016 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_015 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_013 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_012 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_011 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_010 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_009 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_008 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_006 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_005 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_004 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_002 Validating asset
+[2026.03.24-17.02.41:839][448]AssetCheck: /Game/assets/Circle_001 Validating asset
+[2026.03.24-17.02.41:859][448]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-17.02.43:604][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.24-17.02.43:650][624]LogStall: Shutdown...
+[2026.03.24-17.02.43:650][624]LogStall: Shutdown complete.
+[2026.03.24-17.02.43:721][624]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.43:721][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.43:781][624]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.43:781][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.43:881][624]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.43:881][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.43:927][624]LogSlate: Window 'PlunderParty - Unreal Editor' being destroyed
+[2026.03.24-17.02.44:143][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.03.24-17.02.44:175][624]Cmd: QUIT_EDITOR
+[2026.03.24-17.02.44:175][625]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.24-17.02.44:182][625]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.24-17.02.44:183][625]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.24-17.02.44:184][625]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.24-17.02.44:187][625]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:188][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:188][625]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.24-17.02.44:207][625]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.24-17.02.44:208][625]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.24-17.02.44:217][625]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.24-17.02.44:235][625]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:235][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:239][625]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:239][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:244][625]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:244][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:249][625]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:250][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:254][625]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-17.02.44:254][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-17.02.44:266][625]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.24-17.02.44:268][625]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.24-17.02.44:272][625]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.24-17.02.44:544][625]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.24-17.02.44:545][625]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.24-17.02.44:545][625]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.03.24-17.02.44:545][625]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.24-17.02.44:545][625]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.24-17.02.44:547][625]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.24-17.02.44:558][625]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.24-17.02.44:558][625]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.24-17.02.44:559][625]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.24-17.02.44:565][625]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.24-17.02.44:567][625]LogExit: Preparing to exit.
+[2026.03.24-17.02.44:636][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.03.24-17.02.44:640][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:640][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:641][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.44:643][625]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.24-17.02.45:473][625]LogEditorDataStorage: Deinitializing
+[2026.03.24-17.02.45:708][625]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.24-17.02.45:802][625]LogExit: Editor shut down
+[2026.03.24-17.02.45:814][625]LogExit: Transaction tracking system shut down
+[2026.03.24-17.02.46:330][625]LogExit: Object subsystem successfully closed.
+[2026.03.24-17.02.46:350][625]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.24-17.02.46:784][625]LogMemoryProfiler: Shutdown
+[2026.03.24-17.02.46:786][625]LogNetworkingProfiler: Shutdown
+[2026.03.24-17.02.46:786][625]LoadingProfiler: Shutdown
+[2026.03.24-17.02.46:786][625]LogTimingProfiler: Shutdown
+[2026.03.24-17.02.46:795][625]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.24-17.02.46:795][625]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.24-17.02.47:221][625]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.24-17.02.47:273][625]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.24-17.02.47:273][625]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B265F3731-4712-F4EA-45F5-EFAF70ACB296%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=ec8d10204fc238d35b62339ec0178ee6%7Ce8ca21678f084ef7ab7ab4bc95f83e04%7C29c71418-2fd0-448b-94a3-21ab5f177935&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.24-17.02.47:828][625]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.24-17.02.47:829][625]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.24-17.02.47:831][625]RenderDocPlugin: plugin has been unloaded.
+[2026.03.24-17.02.47:850][625]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.24-17.02.47:850][625]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.24-17.02.47:851][625]LogPakFile: Destroying PakPlatformFile
+[2026.03.24-17.02.48:223][625]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.24-17.02.48:262][625]LogExit: Exiting.
+[2026.03.24-17.02.48:293][625]Log file closed, 03/24/26 17:02:48
