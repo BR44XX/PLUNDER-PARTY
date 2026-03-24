@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/Circle.uasset",
+				"E:/OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/assets/skull.uasset"
+			]
+		}
+	]
+}
