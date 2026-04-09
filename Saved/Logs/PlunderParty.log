@@ -2714,3 +2714,278 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.09-16.19.45:347][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 725.337891
 [2026.04.09-16.19.46:349][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.09-16.19.46:349][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 726.006409, Update Interval: 327.486816
+[2026.04.09-16.21.40:205][728]LogContentBundle: [SkullHockey(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.09-16.21.40:205][728]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' started...
+[2026.04.09-16.21.40:206][728]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' took 949 us (total: 14.818 ms)
+[2026.04.09-16.21.40:206][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.09-16.21.40:206][728]LogPlayLevel: Creating play world package: /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.21.40:210][728]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.09-16.21.40:211][728]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 791 us (total: 15.353 ms)
+[2026.04.09-16.21.40:211][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005351s)
+[2026.04.09-16.21.40:211][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/skullhockey/SkullHockey.SkullHockey to /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey (0.005388s)
+[2026.04.09-16.21.40:242][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.04.09-16.21.40:244][728]LogChaosDD: Creating Chaos Debug Draw Scene for world SkullHockey
+[2026.04.09-16.21.40:246][728]LogWorldPartition: ULevel::OnLevelLoaded(SkullHockey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.09-16.21.40:246][728]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.09-16.21.40:246][728]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.09-16.21.40:246][728]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.09-16.21.40:248][728]LogWorldPartition: Display: WorldPartition initialize took 1.374 ms (total: 834.406 ms)
+[2026.04.09-16.21.40:248][728]LogPlayLevel: PIE: World Init took: (0.003870s)
+[2026.04.09-16.21.40:248][728]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.09-16.21.40:248][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.09-16.21.40:248][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.09-16.21.40:248][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.09-16.21.40:248][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.09-16.21.40:248][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.09-16.21.40:251][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.09-16.21.40:288][728]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Alpha S Game)
+[2026.04.09-16.21.40:288][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.09-16.21.40:288][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.09-16.21.40:288][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.09-16.21.40:289][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.09-16.21.40:289][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.04.09-16.21.40:291][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.09-16.21.40:291][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.09-16.21.40:291][728]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.09-16.21.40:291][728]LogAudio: Display: Audio Device (ID: 22) registered with world 'SkullHockey'.
+[2026.04.09-16.21.40:291][728]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.09-16.21.40:296][728]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.09-16.21.40:299][728]LogWorld: Bringing World /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey up for play (max tick rate 0) at 2026.04.09-17.21.40
+[2026.04.09-16.21.40:299][728]LogWorld: Bringing up level for play took: 0.001580
+[2026.04.09-16.21.40:302][728]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.04.09-16.21.40:304][728]PIE: Server logged in
+[2026.04.09-16.21.40:306][728]PIE: Play in editor total start time 0.102 seconds.
+[2026.04.09-16.21.40:610][729]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-16.21.46:872][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.21.46:872][165]LogWorld: BeginTearingDown for /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.21.46:872][165]LogWorld: UWorld::CleanupWorld for SkullHockey, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-16.21.46:872][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.21.46:872][165]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey
+[2026.04.09-16.21.46:877][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.09-16.21.46:887][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.21.46:918][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.09-16.21.46:918][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.09-16.21.46:918][165]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.04.09-16.21.46:920][165]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.04.09-16.21.46:925][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.21.46:928][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.04.09-16.21.47:202][166]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.04.09-16.22.01:378][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.09-16.22.01:420][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/skullhockey/assets/Circle] ([1] browsable assets)...
+[2026.04.09-16.22.01:420][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/skullhockey/assets/Circle]
+[2026.04.09-16.22.01:420][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/skullhockey/assets/Circle" FILE="../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/Levels/skullhockey/assets/Circle.uasset" SILENT=true
+[2026.04.09-16.22.01:469][321]LogSavePackage: Moving output files for package: /Game/Levels/skullhockey/assets/Circle
+[2026.04.09-16.22.01:470][321]LogSavePackage: Moving '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Saved/CircleCA04E5CB48F7BD201249DEB42C050C4B.tmp' to '../../../../../OneDrive/Documents/GitHub/PLUNDER-PARTY/Content/Levels/skullhockey/assets/Circle.uasset'
+[2026.04.09-16.22.01:482][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.717 ms (total: 2.43 sec)
+[2026.04.09-16.22.01:531][321]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.09-16.22.01:531][321]LogContentValidation: Enabled validators:
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.09-16.22.01:531][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.09-16.22.01:531][321]AssetCheck: /Game/Levels/skullhockey/assets/Circle Validating asset
+[2026.04.09-16.22.02:766][414]LogContentBundle: [SkullHockey(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.09-16.22.02:766][414]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' started...
+[2026.04.09-16.22.02:767][414]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' took 887 us (total: 15.705 ms)
+[2026.04.09-16.22.02:767][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.09-16.22.02:767][414]LogPlayLevel: Creating play world package: /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.22.02:772][414]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.09-16.22.02:774][414]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.328 ms (total: 16.681 ms)
+[2026.04.09-16.22.02:774][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006779s)
+[2026.04.09-16.22.02:774][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/skullhockey/SkullHockey.SkullHockey to /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey (0.006835s)
+[2026.04.09-16.22.02:812][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.09-16.22.02:815][414]LogChaosDD: Creating Chaos Debug Draw Scene for world SkullHockey
+[2026.04.09-16.22.02:817][414]LogWorldPartition: ULevel::OnLevelLoaded(SkullHockey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.09-16.22.02:817][414]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.09-16.22.02:817][414]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.09-16.22.02:817][414]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.09-16.22.02:818][414]LogWorldPartition: Display: WorldPartition initialize took 1.396 ms (total: 835.803 ms)
+[2026.04.09-16.22.02:818][414]LogPlayLevel: PIE: World Init took: (0.003800s)
+[2026.04.09-16.22.02:819][414]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.09-16.22.02:819][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.09-16.22.02:819][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.09-16.22.02:819][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.09-16.22.02:819][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.09-16.22.02:819][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.09-16.22.02:821][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.09-16.22.02:856][414]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Alpha S Game)
+[2026.04.09-16.22.02:856][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.09-16.22.02:856][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.09-16.22.02:856][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.09-16.22.02:857][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.04.09-16.22.02:857][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.04.09-16.22.02:859][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.04.09-16.22.02:859][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.04.09-16.22.02:859][414]LogInit: FAudioDevice initialized with ID 23.
+[2026.04.09-16.22.02:859][414]LogAudio: Display: Audio Device (ID: 23) registered with world 'SkullHockey'.
+[2026.04.09-16.22.02:859][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.09-16.22.02:863][414]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.09-16.22.02:865][414]LogWorld: Bringing World /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey up for play (max tick rate 0) at 2026.04.09-17.22.02
+[2026.04.09-16.22.02:865][414]LogWorld: Bringing up level for play took: 0.001347
+[2026.04.09-16.22.02:868][414]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.04.09-16.22.02:871][414]PIE: Server logged in
+[2026.04.09-16.22.02:872][414]PIE: Play in editor total start time 0.107 seconds.
+[2026.04.09-16.22.03:157][415]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-16.22.56:898][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.22.56:898][717]LogWorld: BeginTearingDown for /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.22.56:899][717]LogWorld: UWorld::CleanupWorld for SkullHockey, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-16.22.56:899][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.22.56:899][717]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey
+[2026.04.09-16.22.56:904][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.09-16.22.56:914][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.22.56:948][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.22.56:949][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.09-16.22.56:949][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.04.09-16.22.56:951][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.04.09-16.22.56:960][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.04.09-16.22.57:004][718]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.04.09-16.22.59:960][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.09-16.23.23:260][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.09-16.23.25:217][206]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.09-16.23.25:225][206]LogContentBundle: [SkullHockey(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.09-16.23.25:225][206]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' started...
+[2026.04.09-16.23.25:226][206]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' took 1.117 ms (total: 16.822 ms)
+[2026.04.09-16.23.25:226][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.09-16.23.25:226][206]LogPlayLevel: Creating play world package: /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.23.25:233][206]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.09-16.23.25:234][206]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.011 ms (total: 17.693 ms)
+[2026.04.09-16.23.25:234][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006963s)
+[2026.04.09-16.23.25:234][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/skullhockey/SkullHockey.SkullHockey to /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey (0.007009s)
+[2026.04.09-16.23.25:269][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.09-16.23.25:274][206]LogChaosDD: Creating Chaos Debug Draw Scene for world SkullHockey
+[2026.04.09-16.23.25:277][206]LogWorldPartition: ULevel::OnLevelLoaded(SkullHockey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.09-16.23.25:277][206]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.09-16.23.25:277][206]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.09-16.23.25:277][206]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.09-16.23.25:278][206]LogWorldPartition: Display: WorldPartition initialize took 1.205 ms (total: 837.008 ms)
+[2026.04.09-16.23.25:278][206]LogPlayLevel: PIE: World Init took: (0.004253s)
+[2026.04.09-16.23.25:279][206]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.09-16.23.25:279][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.09-16.23.25:279][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.09-16.23.25:279][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.09-16.23.25:279][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.09-16.23.25:279][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.09-16.23.25:281][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.09-16.23.25:319][206]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Alpha S Game)
+[2026.04.09-16.23.25:319][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.09-16.23.25:319][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.09-16.23.25:319][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.09-16.23.25:320][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.04.09-16.23.25:320][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.04.09-16.23.25:323][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.04.09-16.23.25:323][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.04.09-16.23.25:323][206]LogInit: FAudioDevice initialized with ID 24.
+[2026.04.09-16.23.25:323][206]LogAudio: Display: Audio Device (ID: 24) registered with world 'SkullHockey'.
+[2026.04.09-16.23.25:323][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.09-16.23.25:327][206]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.09-16.23.25:329][206]LogWorld: Bringing World /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey up for play (max tick rate 0) at 2026.04.09-17.23.25
+[2026.04.09-16.23.25:329][206]LogWorld: Bringing up level for play took: 0.001312
+[2026.04.09-16.23.25:332][206]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.04.09-16.23.25:338][206]PIE: Server logged in
+[2026.04.09-16.23.25:341][206]PIE: Play in editor total start time 0.116 seconds.
+[2026.04.09-16.23.25:435][207]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-16.23.27:271][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.23.27:271][340]LogWorld: BeginTearingDown for /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.23.27:271][340]LogWorld: UWorld::CleanupWorld for SkullHockey, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-16.23.27:273][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.23.27:273][340]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey
+[2026.04.09-16.23.27:278][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.09-16.23.27:287][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.23.27:316][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.23.27:317][340]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.09-16.23.27:317][340]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.04.09-16.23.27:319][340]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.04.09-16.23.27:327][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.09-16.23.27:364][341]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.09-16.23.27:961][388]LogContentBundle: [SkullHockey(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.09-16.23.27:961][388]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' started...
+[2026.04.09-16.23.27:963][388]LogWorldPartition: Display: GenerateStreaming for 'SkullHockey' took 1.166 ms (total: 17.989 ms)
+[2026.04.09-16.23.27:963][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.09-16.23.27:991][388]LogPlayLevel: Creating play world package: /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.23.27:995][388]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.09-16.23.27:996][388]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 654 us (total: 18.348 ms)
+[2026.04.09-16.23.27:996][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2026.04.09-16.23.27:996][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/skullhockey/SkullHockey.SkullHockey to /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey (0.004998s)
+[2026.04.09-16.23.28:027][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.09-16.23.28:029][388]LogChaosDD: Creating Chaos Debug Draw Scene for world SkullHockey
+[2026.04.09-16.23.28:032][388]LogWorldPartition: ULevel::OnLevelLoaded(SkullHockey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.09-16.23.28:032][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.09-16.23.28:032][388]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.09-16.23.28:032][388]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.09-16.23.28:034][388]LogWorldPartition: Display: WorldPartition initialize took 1.416 ms (total: 838.425 ms)
+[2026.04.09-16.23.28:034][388]LogPlayLevel: PIE: World Init took: (0.004383s)
+[2026.04.09-16.23.28:035][388]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.09-16.23.28:035][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.09-16.23.28:035][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.09-16.23.28:035][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.09-16.23.28:035][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.09-16.23.28:035][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.09-16.23.28:038][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.09-16.23.28:073][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Alpha S Game)
+[2026.04.09-16.23.28:074][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.09-16.23.28:074][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.09-16.23.28:074][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.09-16.23.28:075][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.04.09-16.23.28:075][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.04.09-16.23.28:077][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.04.09-16.23.28:077][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.04.09-16.23.28:077][388]LogInit: FAudioDevice initialized with ID 25.
+[2026.04.09-16.23.28:077][388]LogAudio: Display: Audio Device (ID: 25) registered with world 'SkullHockey'.
+[2026.04.09-16.23.28:077][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.04.09-16.23.28:083][388]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.09-16.23.28:085][388]LogWorld: Bringing World /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey up for play (max tick rate 0) at 2026.04.09-17.23.28
+[2026.04.09-16.23.28:085][388]LogWorld: Bringing up level for play took: 0.001412
+[2026.04.09-16.23.28:088][388]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.09-16.23.28:090][388]PIE: Server logged in
+[2026.04.09-16.23.28:091][388]PIE: Play in editor total start time 0.131 seconds.
+[2026.04.09-16.23.28:171][389]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-16.23.39:213][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.23.39:213][331]LogWorld: BeginTearingDown for /Game/Levels/skullhockey/UEDPIE_0_SkullHockey
+[2026.04.09-16.23.39:213][331]LogWorld: UWorld::CleanupWorld for SkullHockey, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-16.23.39:214][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.23.39:214][331]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/skullhockey/UEDPIE_0_SkullHockey.SkullHockey
+[2026.04.09-16.23.39:219][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.09-16.23.39:228][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-16.23.39:259][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.09-16.23.39:259][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.04.09-16.23.39:260][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.04.09-16.23.39:262][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.04.09-16.23.39:270][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.04.09-16.23.39:313][332]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.09-16.25.19:257][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.249146
+[2026.04.09-16.25.20:258][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-16.25.20:258][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1059.915527, Update Interval: 344.417236
