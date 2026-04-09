@@ -2986,6 +2986,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.09-16.23.39:262][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
 [2026.04.09-16.23.39:270][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2026.04.09-16.23.39:313][332]LogPlayLevel: Display: Destroying online subsystem :Context_33
+<<<<<<< Updated upstream
 [2026.04.09-16.25.19:257][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.249146
 [2026.04.09-16.25.20:258][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.09-16.25.20:258][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1059.915527, Update Interval: 344.417236
@@ -5897,3 +5898,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.09-19.30.17:540][847]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.04.09-19.30.17:582][847]LogExit: Exiting.
 [2026.04.09-19.30.17:616][847]Log file closed, 04/09/26 20:30:17
+=======
+>>>>>>> Stashed changes
