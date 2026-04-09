@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.6",
+	"EngineAssociation": "{44001D9E-4D23-A969-5368-86B40A956442}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,22 +13,6 @@
 		},
 		{
 			"Name": "GameplayStateTree",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "WaterExtras",
-			"Enabled": true
-		},
-		{
-			"Name": "WaterAdvanced",
-			"Enabled": true
-		},
-		{
-			"Name": "Buoyancy",
 			"Enabled": true
 		}
 	]
