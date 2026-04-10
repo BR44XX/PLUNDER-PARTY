@@ -5,10 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/PLUNDER-PARTY/Content/main_menu_map.umap",
 				"D:/PLUNDER-PARTY/Content/UI/Mainmenu.uasset",
-				"D:/PLUNDER-PARTY/Content/UI/mainmen.uasset",
-				"D:/PLUNDER-PARTY/Content/UI/menugamemode.uasset"
+				"D:/PLUNDER-PARTY/Content/UI/menugamemode.uasset",
+				"D:/PLUNDER-PARTY/Content/__ExternalActors__/Levels/skullhockey/SkullHockey/7/AQ/RFK48ROBM93SFTDVKRY7GX.uasset",
+				"D:/PLUNDER-PARTY/Content/__ExternalActors__/Levels/skullhockey/SkullHockey/D/2R/208S6YQLQIE19FEAPKY8Z6.uasset",
+				"D:/PLUNDER-PARTY/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE_5.6/Engine/Content/BasicShapes/Cube.uasset",
+				"D:/PLUNDER-PARTY/Content/__ExternalActors__/Levels/SkullHockey/SkullHockey/A/MF/NVMTGLN8Q9M1WMJST07Z0V.uasset",
+				"D:/PLUNDER-PARTY/Content/Levels/skullhockey/cam_test.uasset",
+				"D:/PLUNDER-PARTY/Content/Levels/skullhockey/skullBall.uasset",
+				"D:/PLUNDER-PARTY/Content/main_menu_map.umap",
+				"D:/PLUNDER-PARTY/Content/UI/mainmen.uasset"
 			]
 		}
 	]
