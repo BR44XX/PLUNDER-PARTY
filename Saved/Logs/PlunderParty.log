@@ -11143,3 +11143,4 @@ Make sure 'GM_skullhockey_C' has been compiled for  Game End
 [2026.04.20-13.19.03:028][487]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.04.20-13.19.03:028][487]LogShaderCompilers: Display: Material Cache Hits: 22 (14%)
 [2026.04.20-13.19.03:028][487]LogShaderCompilers: Display: ================================================
+[2026.04.20-13.19.29:614][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
